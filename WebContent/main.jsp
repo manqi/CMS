@@ -44,7 +44,7 @@
 							<ul>
 							<li><a onclick="QueryKclb()">查询</a></li>
 							<li><a onclick="AddKclb()">新增</a></li>
-							<li>修改</li>
+							<li><a onclick="ModifyKclb()"></a>修改</li>
 							<li>删除</li>
 							<li>导出</li>
 							</ul>
